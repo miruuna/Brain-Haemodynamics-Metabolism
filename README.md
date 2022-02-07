@@ -4,7 +4,7 @@ The model was implemented in the open source Brain Circulation Model Developer (
 
 The course of a simulation is controlled by an input file with a simple yet not intuitive format, which specifies the simulation time steps and parameter changes as well as the options to reconfigure the the output. The input files are then used together with the compiled model to run batches of simulations. Examples of input files used to run the simulations can be found [here](https://github.com/miruuna/Brain-Haemodynamics-Metabolism).
 
-
+The written report presenting the methods and the result can be accessed [here](https://github.com/miruuna/Brain-Haemodynamics-Metabolism/blob/main/%5BREPORT%5DBrain_haemodynamics_Serian.pdf).
 
 
 
